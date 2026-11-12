@@ -3,10 +3,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=TCS+Prime+offer+%F0%9F%8E%AF;Paper+accepted+at+IEEE+IC2NC+2026+%F0%9F%93%84;Two+open-source+CLIs+shipped+to+npm+%F0%9F%93%A6;I+build+tools+that+give+LLMs+better+context" alt="Typing intro"/>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/kuraganti-naga-charan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:kurugantinagacharan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.npmjs.com/~k-nagacharan"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/></a>
